@@ -1,0 +1,1 @@
+# Zio-Qwiic-Capacitive-Touch-Sensor-AT42QT2120_V2.0
