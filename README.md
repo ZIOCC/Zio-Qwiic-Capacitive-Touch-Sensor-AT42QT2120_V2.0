@@ -1,7 +1,6 @@
 ## Zio Qwiic Capacitive Touch Sensor AT42QT2120 V2.0
 
-This product can be available for purchase here
-link: https://www.smart-prototyping.com/Zio-Qwiic-Capacitive-Touch-Sensor-Module-AT42QT2120.
+This product can be available for purchase [here](https://www.smart-prototyping.com/Zio-Qwiic-Capacitive-Touch-Sensor-Module-AT42QT2120).
 
 ### Description
 
